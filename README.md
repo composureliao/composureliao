@@ -4,7 +4,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently work in Hangzhou.
+- 🔭 I’m from Zhejiang Province, China.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m Currently working at Lenovo Group. 
 - 📫 How to reach me: [2binarys.com](https://www.2binarys.com/) [Gmail](mailto:2binarys@gmail.com)
