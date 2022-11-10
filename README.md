@@ -8,6 +8,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [2binarys.com](https://www.2binarys.com/) [Gmail](mailto:2binarys@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
